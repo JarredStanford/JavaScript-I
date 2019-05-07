@@ -34,4 +34,4 @@ subtract(1,2);
 // console.log(triple);
 let arr = [1,2,3,4];
 let triple = arr.map(num => num*3);
-triple;
+console.log(triple);
